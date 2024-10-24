@@ -58,7 +58,7 @@ To run these applications, ensure your system meets the following requirements:
 ### Step 1: Clone the Repository
 Begin by cloning the project repository to your local machine using the following command:
 ```bash
-git clone https://github.com/DiiegoA/persistencia-de-datos-y-consultas-con-Spring-Data-JPA.git
+git clone https://github.com/DiiegoA/lambdas-streams-y-Spring-Framework.git
 ```
 
 ### Step 2: Open and Build the Project
